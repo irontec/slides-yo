@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Creating Generators with Yeoman",
+    "packageVersion": "0.0.1",
+    "revealTheme": "default",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "aitorllj93",
+    "githubRepository": "slides-yo"
+  }
+}
